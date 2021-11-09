@@ -18,7 +18,9 @@ Finally, I bought a 56K modem, discover Internet and the World Wide Web. Surfing
 
 And the journey didn't end. I bought an O'Reilly *Webmaster in a nutshell*, a thick book which still in my book shelf. And I started to code on Debian my first PHP3 scripts.
 
-24 years later, a lot of things changed. I write those lines on a MacBook running an old macOS High Sierra ; PHP had many new versions and became object oriented. PHP8 is still widly used.
+24 years later, a lot of things changed. I've chosen to change my job and had a training. I'm no more self-taught but I can claim being a real professional web developer. 
+
+I write those lines on a MacBook running an old macOS High Sierra ; PHP had many new versions and became object oriented. PHP8 is still widly used.
 
 So I brought to you this repository. If you are completly new to programming, I hope It will help you.
 
