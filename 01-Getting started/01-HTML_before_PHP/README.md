@@ -12,18 +12,18 @@ You kown?
 
 ## Lyrics
 
-> 1-2-3-4 get your woman on the floor
-> Gotta gotta get up to get down
-> Gotta gotta get up to get down
-> 
-> 1-2-3-4 get your woman on the floor
-> Gotta gotta get up to get down
+> 1-2-3-4 get your woman on the floor\
+> Gotta gotta get up to get down\
 > Gotta gotta get up to get down
 > 
-> What up everybody so glad you're here
-> It's Coolio with the flow back in your ear
-> This ain't a fantastic voyage
-> But I'm still on a mission to see if I can
+> 1-2-3-4 get your woman on the floor\
+> Gotta gotta get up to get down\
+> Gotta gotta get up to get down
+> 
+> What up everybody so glad you're here\
+> It's Coolio with the flow back in your ear\
+> This ain't a fantastic voyage\
+> But I'm still on a mission to see if I can\
 > Get your attention
 
 ## Get ready
