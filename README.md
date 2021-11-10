@@ -4,6 +4,24 @@ Just a bunch of few examples for PHP newbies.
 
 You should have notions of HTML and CSS for understanding those samples.
 
+## Dive in this repo
+
+The numbered folders are sections and subsections of a tutorial I'm currently writing. 
+
+In each section, you'll find a summary ; in each subsection, an explanation in README.md and files (source codes).
+
+Want to dive in it? [Let's get the party started!](01-Getting_started) :smile:
+
+## Unfinished
+
+In `master` branch, you'll find consolidated tutorial.
+
+In `develop` branch, you'll find latest state of the tutorial. (More files, but still not finished. It's still a work in progress.)
+
+Proceed with caution.
+
+In case of not working codes, verify your code, check version of your PHP server, go [read the official manual at PHP.net](https://www.php.net/manual/en/).
+
 ## About the author
 
 My nickname is *AglarEdain*.
